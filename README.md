@@ -13,13 +13,6 @@ This project leverages computer vision and machine learning to authenticate vote
 
 ---
 
-## Project Structure
-
-├── add_faces.py        # Script to register voter faces
-├── give_vote.py        # Script to cast votes after authentication
-├── Votes.csv           # Stores voting data
-├── background.png      # UI background image
-├── README.md           # Project documentation
 
 
 ## 🛠️ Requirements
@@ -34,3 +27,10 @@ You can install them with:
 pip install opencv-python scikit-learn pywin32
 
 
+## Project Structure
+
+├── add_faces.py        # Script to register voter faces
+├── give_vote.py        # Script to cast votes after authentication
+├── Votes.csv           # Stores voting data
+├── background.png      # UI background image
+├── README.md           # Project documentation
